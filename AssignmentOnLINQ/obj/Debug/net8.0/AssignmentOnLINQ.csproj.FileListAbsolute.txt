@@ -1,0 +1,14 @@
+C:\c#\AssignmentOnLINQ\bin\Debug\net8.0\AssignmentOnLINQ.exe
+C:\c#\AssignmentOnLINQ\bin\Debug\net8.0\AssignmentOnLINQ.deps.json
+C:\c#\AssignmentOnLINQ\bin\Debug\net8.0\AssignmentOnLINQ.runtimeconfig.json
+C:\c#\AssignmentOnLINQ\bin\Debug\net8.0\AssignmentOnLINQ.dll
+C:\c#\AssignmentOnLINQ\bin\Debug\net8.0\AssignmentOnLINQ.pdb
+C:\c#\AssignmentOnLINQ\obj\Debug\net8.0\AssignmentOnLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\AssignmentOnLINQ\obj\Debug\net8.0\AssignmentOnLINQ.AssemblyInfoInputs.cache
+C:\c#\AssignmentOnLINQ\obj\Debug\net8.0\AssignmentOnLINQ.AssemblyInfo.cs
+C:\c#\AssignmentOnLINQ\obj\Debug\net8.0\AssignmentOnLINQ.csproj.CoreCompileInputs.cache
+C:\c#\AssignmentOnLINQ\obj\Debug\net8.0\AssignmentOnLINQ.dll
+C:\c#\AssignmentOnLINQ\obj\Debug\net8.0\refint\AssignmentOnLINQ.dll
+C:\c#\AssignmentOnLINQ\obj\Debug\net8.0\AssignmentOnLINQ.pdb
+C:\c#\AssignmentOnLINQ\obj\Debug\net8.0\AssignmentOnLINQ.genruntimeconfig.cache
+C:\c#\AssignmentOnLINQ\obj\Debug\net8.0\ref\AssignmentOnLINQ.dll

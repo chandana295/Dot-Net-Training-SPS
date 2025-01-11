@@ -1,0 +1,14 @@
+C:\c#\AssignmentOnInterfaces\bin\Debug\net8.0\AssignmentOnInterfaces.exe
+C:\c#\AssignmentOnInterfaces\bin\Debug\net8.0\AssignmentOnInterfaces.deps.json
+C:\c#\AssignmentOnInterfaces\bin\Debug\net8.0\AssignmentOnInterfaces.runtimeconfig.json
+C:\c#\AssignmentOnInterfaces\bin\Debug\net8.0\AssignmentOnInterfaces.dll
+C:\c#\AssignmentOnInterfaces\bin\Debug\net8.0\AssignmentOnInterfaces.pdb
+C:\c#\AssignmentOnInterfaces\obj\Debug\net8.0\AssignmentOnInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\AssignmentOnInterfaces\obj\Debug\net8.0\AssignmentOnInterfaces.AssemblyInfoInputs.cache
+C:\c#\AssignmentOnInterfaces\obj\Debug\net8.0\AssignmentOnInterfaces.AssemblyInfo.cs
+C:\c#\AssignmentOnInterfaces\obj\Debug\net8.0\AssignmentOnInterfaces.csproj.CoreCompileInputs.cache
+C:\c#\AssignmentOnInterfaces\obj\Debug\net8.0\AssignmentOnInterfaces.dll
+C:\c#\AssignmentOnInterfaces\obj\Debug\net8.0\refint\AssignmentOnInterfaces.dll
+C:\c#\AssignmentOnInterfaces\obj\Debug\net8.0\AssignmentOnInterfaces.pdb
+C:\c#\AssignmentOnInterfaces\obj\Debug\net8.0\AssignmentOnInterfaces.genruntimeconfig.cache
+C:\c#\AssignmentOnInterfaces\obj\Debug\net8.0\ref\AssignmentOnInterfaces.dll
