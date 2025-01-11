@@ -1,0 +1,14 @@
+C:\c#\AssignmentCollections\bin\Debug\net8.0\AssignmentCollections.exe
+C:\c#\AssignmentCollections\bin\Debug\net8.0\AssignmentCollections.deps.json
+C:\c#\AssignmentCollections\bin\Debug\net8.0\AssignmentCollections.runtimeconfig.json
+C:\c#\AssignmentCollections\bin\Debug\net8.0\AssignmentCollections.dll
+C:\c#\AssignmentCollections\bin\Debug\net8.0\AssignmentCollections.pdb
+C:\c#\AssignmentCollections\obj\Debug\net8.0\AssignmentCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\AssignmentCollections\obj\Debug\net8.0\AssignmentCollections.AssemblyInfoInputs.cache
+C:\c#\AssignmentCollections\obj\Debug\net8.0\AssignmentCollections.AssemblyInfo.cs
+C:\c#\AssignmentCollections\obj\Debug\net8.0\AssignmentCollections.csproj.CoreCompileInputs.cache
+C:\c#\AssignmentCollections\obj\Debug\net8.0\AssignmentCollections.dll
+C:\c#\AssignmentCollections\obj\Debug\net8.0\refint\AssignmentCollections.dll
+C:\c#\AssignmentCollections\obj\Debug\net8.0\AssignmentCollections.pdb
+C:\c#\AssignmentCollections\obj\Debug\net8.0\AssignmentCollections.genruntimeconfig.cache
+C:\c#\AssignmentCollections\obj\Debug\net8.0\ref\AssignmentCollections.dll
