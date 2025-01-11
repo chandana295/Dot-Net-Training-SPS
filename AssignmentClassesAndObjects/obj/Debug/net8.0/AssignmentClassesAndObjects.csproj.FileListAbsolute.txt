@@ -1,0 +1,14 @@
+C:\c#\AssignmentClassesAndObjects\bin\Debug\net8.0\AssignmentClassesAndObjects.exe
+C:\c#\AssignmentClassesAndObjects\bin\Debug\net8.0\AssignmentClassesAndObjects.deps.json
+C:\c#\AssignmentClassesAndObjects\bin\Debug\net8.0\AssignmentClassesAndObjects.runtimeconfig.json
+C:\c#\AssignmentClassesAndObjects\bin\Debug\net8.0\AssignmentClassesAndObjects.dll
+C:\c#\AssignmentClassesAndObjects\bin\Debug\net8.0\AssignmentClassesAndObjects.pdb
+C:\c#\AssignmentClassesAndObjects\obj\Debug\net8.0\AssignmentClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\AssignmentClassesAndObjects\obj\Debug\net8.0\AssignmentClassesAndObjects.AssemblyInfoInputs.cache
+C:\c#\AssignmentClassesAndObjects\obj\Debug\net8.0\AssignmentClassesAndObjects.AssemblyInfo.cs
+C:\c#\AssignmentClassesAndObjects\obj\Debug\net8.0\AssignmentClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\c#\AssignmentClassesAndObjects\obj\Debug\net8.0\AssignmentClassesAndObjects.dll
+C:\c#\AssignmentClassesAndObjects\obj\Debug\net8.0\refint\AssignmentClassesAndObjects.dll
+C:\c#\AssignmentClassesAndObjects\obj\Debug\net8.0\AssignmentClassesAndObjects.pdb
+C:\c#\AssignmentClassesAndObjects\obj\Debug\net8.0\AssignmentClassesAndObjects.genruntimeconfig.cache
+C:\c#\AssignmentClassesAndObjects\obj\Debug\net8.0\ref\AssignmentClassesAndObjects.dll
