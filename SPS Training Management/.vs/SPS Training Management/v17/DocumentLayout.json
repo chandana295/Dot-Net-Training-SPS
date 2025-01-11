@@ -1,0 +1,1009 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7865CDE-E1B8-4D02-AE0C-88780BCDFAA5}|TrainingLibrary\\TrainingLibrary.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\traininglibrary\\models\\spstrainingdbsnraocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7865CDE-E1B8-4D02-AE0C-88780BCDFAA5}|TrainingLibrary\\TrainingLibrary.csproj|solutionrelative:traininglibrary\\models\\spstrainingdbsnraocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2C785E-6E7E-428A-8FCD-D957D5E07BC9}|TrainerWebApi\\TrainerWebApi.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\trainerwebapi\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2C785E-6E7E-428A-8FCD-D957D5E07BC9}|TrainerWebApi\\TrainerWebApi.csproj|solutionrelative:trainerwebapi\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\controllers\\technologycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\controllers\\technologycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A29220-3B38-4A88-BDCE-4769BB0F4448}|TrainingWebApi\\TrainingWebApi.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\trainingwebapi\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A29220-3B38-4A88-BDCE-4769BB0F4448}|TrainingWebApi\\TrainingWebApi.csproj|solutionrelative:trainingwebapi\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A29220-3B38-4A88-BDCE-4769BB0F4448}|TrainingWebApi\\TrainingWebApi.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\trainingwebapi\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A29220-3B38-4A88-BDCE-4769BB0F4448}|TrainingWebApi\\TrainingWebApi.csproj|solutionrelative:trainingwebapi\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E117F07-4801-4D9E-A811-4F90D5072D4D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\employeewebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E117F07-4801-4D9E-A811-4F90D5072D4D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DB562A-DC32-4FD0-A587-20BFEA4B2B1B}|AuthenticationWebApi\\AuthenticationWebApi.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\authenticationwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DB562A-DC32-4FD0-A587-20BFEA4B2B1B}|AuthenticationWebApi\\AuthenticationWebApi.csproj|solutionrelative:authenticationwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SPSEmployeeDBProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SPSTechnologyDBProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SPSTrainingDBProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SPSTrainerDBProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DB562A-DC32-4FD0-A587-20BFEA4B2B1B}|AuthenticationWebApi\\AuthenticationWebApi.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\authenticationwebapi\\authenticationwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24DB562A-DC32-4FD0-A587-20BFEA4B2B1B}|AuthenticationWebApi\\AuthenticationWebApi.csproj|solutionrelative:authenticationwebapi\\authenticationwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\spstrainingmvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\spstrainingmvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E117F07-4801-4D9E-A811-4F90D5072D4D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\employeewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E117F07-4801-4D9E-A811-4F90D5072D4D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E117F07-4801-4D9E-A811-4F90D5072D4D}|EmployeeWebApi\\EmployeeWebApi.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\employeewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E117F07-4801-4D9E-A811-4F90D5072D4D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076A3DD7-EC41-414F-A9A6-EF94278AB625}|EmployeeLibrary\\EmployeeLibrary.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\employeelibrary\\repos\\efemployeerepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076A3DD7-EC41-414F-A9A6-EF94278AB625}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\repos\\efemployeerepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076A3DD7-EC41-414F-A9A6-EF94278AB625}|EmployeeLibrary\\EmployeeLibrary.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\employeelibrary\\models\\spsemployeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076A3DD7-EC41-414F-A9A6-EF94278AB625}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\models\\spsemployeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\models\\foreignkeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\models\\foreignkeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\training\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\training\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\training\\bytrainer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\training\\bytrainer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\training\\bytechnology.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\training\\bytechnology.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\training\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\training\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7865CDE-E1B8-4D02-AE0C-88780BCDFAA5}|TrainingLibrary\\TrainingLibrary.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\traininglibrary\\repos\\itrainingrepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7865CDE-E1B8-4D02-AE0C-88780BCDFAA5}|TrainingLibrary\\TrainingLibrary.csproj|solutionrelative:traininglibrary\\repos\\itrainingrepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\training\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\training\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\training\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\training\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\training\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\training\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7865CDE-E1B8-4D02-AE0C-88780BCDFAA5}|TrainingLibrary\\TrainingLibrary.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\traininglibrary\\models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7865CDE-E1B8-4D02-AE0C-88780BCDFAA5}|TrainingLibrary\\TrainingLibrary.csproj|solutionrelative:traininglibrary\\models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\technology\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\technology\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\trainer\\bytype.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\trainer\\bytype.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F896E7A7-DD26-4640-B754-BCEE4864A475}|TrainerLibrary\\TrainerLibrary.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\trainerlibrary\\repos\\itrainerrepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F896E7A7-DD26-4640-B754-BCEE4864A475}|TrainerLibrary\\TrainerLibrary.csproj|solutionrelative:trainerlibrary\\repos\\itrainerrepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\trainer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\trainer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\trainer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\trainer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\trainer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\trainer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\trainer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\trainer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\trainer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\trainer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F896E7A7-DD26-4640-B754-BCEE4864A475}|TrainerLibrary\\TrainerLibrary.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\trainerlibrary\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F896E7A7-DD26-4640-B754-BCEE4864A475}|TrainerLibrary\\TrainerLibrary.csproj|solutionrelative:trainerlibrary\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\technology\\bylevel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\technology\\bylevel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\technology\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\technology\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\technology\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\technology\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A599E842-85DC-44AD-80EE-DFAF1D8D1355}|TechnologyWebApi\\TechnologyWebApi.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\technologywebapi\\controllers\\technologycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A599E842-85DC-44AD-80EE-DFAF1D8D1355}|TechnologyWebApi\\TechnologyWebApi.csproj|solutionrelative:technologywebapi\\controllers\\technologycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\technology\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\technology\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\views\\technology\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\views\\technology\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BD328F-E1A9-479C-9624-4EB4E84041A8}|TechnologyLibrary\\TechnologyLibrary.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\technologylibrary\\repos\\itechnologyrepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BD328F-E1A9-479C-9624-4EB4E84041A8}|TechnologyLibrary\\TechnologyLibrary.csproj|solutionrelative:technologylibrary\\repos\\itechnologyrepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BD328F-E1A9-479C-9624-4EB4E84041A8}|TechnologyLibrary\\TechnologyLibrary.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\technologylibrary\\models\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BD328F-E1A9-479C-9624-4EB4E84041A8}|TechnologyLibrary\\TechnologyLibrary.csproj|solutionrelative:technologylibrary\\models\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076A3DD7-EC41-414F-A9A6-EF94278AB625}|EmployeeLibrary\\EmployeeLibrary.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\employeelibrary\\repos\\iemployeerepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076A3DD7-EC41-414F-A9A6-EF94278AB625}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\repos\\iemployeerepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\spstrainingmvcapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076A3DD7-EC41-414F-A9A6-EF94278AB625}|EmployeeLibrary\\EmployeeLibrary.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\employeelibrary\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076A3DD7-EC41-414F-A9A6-EF94278AB625}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A29220-3B38-4A88-BDCE-4769BB0F4448}|TrainingWebApi\\TrainingWebApi.csproj|c:\\users\\putta\\desktop\\sps training management\\sps training management\\trainingwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0A29220-3B38-4A88-BDCE-4769BB0F4448}|TrainingWebApi\\TrainingWebApi.csproj|solutionrelative:trainingwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\appsettings.json",
+              "RelativeToolTip": "SPSTrainingMvcApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T06:56:23.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TechnologyController.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\TechnologyController.cs",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Controllers\\TechnologyController.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\TechnologyController.cs",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Controllers\\TechnologyController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:10:17.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrainerController.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\TrainerController.cs",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Controllers\\TrainerController.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\TrainerController.cs",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Controllers\\TrainerController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:50:09.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrainingController.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\TrainingController.cs",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Controllers\\TrainingController.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\TrainingController.cs",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Controllers\\TrainingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:16:21.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrainerController.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainerWebApi\\Controllers\\TrainerController.cs",
+              "RelativeDocumentMoniker": "TrainerWebApi\\Controllers\\TrainerController.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainerWebApi\\Controllers\\TrainerController.cs",
+              "RelativeToolTip": "TrainerWebApi\\Controllers\\TrainerController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:57:29.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SPSTrainingDBsnraoContext.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainingLibrary\\Models\\SPSTrainingDBsnraoContext.cs",
+              "RelativeDocumentMoniker": "TrainingLibrary\\Models\\SPSTrainingDBsnraoContext.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainingLibrary\\Models\\SPSTrainingDBsnraoContext.cs",
+              "RelativeToolTip": "TrainingLibrary\\Models\\SPSTrainingDBsnraoContext.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwH4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T06:57:44.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T06:59:33.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TraineeController.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainingWebApi\\Controllers\\TraineeController.cs",
+              "RelativeDocumentMoniker": "TrainingWebApi\\Controllers\\TraineeController.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainingWebApi\\Controllers\\TraineeController.cs",
+              "RelativeToolTip": "TrainingWebApi\\Controllers\\TraineeController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAIwDAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:43:22.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\AuthenticationWebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthenticationWebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\AuthenticationWebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthenticationWebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:14:25.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:37:15.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrainingController.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainingWebApi\\Controllers\\TrainingController.cs",
+              "RelativeDocumentMoniker": "TrainingWebApi\\Controllers\\TrainingController.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainingWebApi\\Controllers\\TrainingController.cs",
+              "RelativeToolTip": "TrainingWebApi\\Controllers\\TrainingController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAUwDYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:51:27.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\EmployeeWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\EmployeeWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeWebApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:40:44.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Program.cs",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Program.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Program.cs",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:31:57.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SPSEmployeeDBProject",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSEmployeeDBProject\\SPSEmployeeDBProject.sqlproj",
+              "RelativeDocumentMoniker": "SPSEmployeeDBProject\\SPSEmployeeDBProject.sqlproj",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSEmployeeDBProject\\SPSEmployeeDBProject.sqlproj",
+              "RelativeToolTip": "SPSEmployeeDBProject\\SPSEmployeeDBProject.sqlproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T06:26:37.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SPSTechnologyDBProject",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTechnologyDBProject\\SPSTechnologyDBProject.sqlproj",
+              "RelativeDocumentMoniker": "SPSTechnologyDBProject\\SPSTechnologyDBProject.sqlproj",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTechnologyDBProject\\SPSTechnologyDBProject.sqlproj",
+              "RelativeToolTip": "SPSTechnologyDBProject\\SPSTechnologyDBProject.sqlproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T06:31:13.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SPSTrainingDBProject",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingDBProject\\SPSTrainingDBProject.sqlproj",
+              "RelativeDocumentMoniker": "SPSTrainingDBProject\\SPSTrainingDBProject.sqlproj",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingDBProject\\SPSTrainingDBProject.sqlproj",
+              "RelativeToolTip": "SPSTrainingDBProject\\SPSTrainingDBProject.sqlproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T08:38:39.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SPSTrainerDBProject",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainerDBProject\\SPSTrainerDBProject.sqlproj",
+              "RelativeDocumentMoniker": "SPSTrainerDBProject\\SPSTrainerDBProject.sqlproj",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainerDBProject\\SPSTrainerDBProject.sqlproj",
+              "RelativeToolTip": "SPSTrainerDBProject\\SPSTrainerDBProject.sqlproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T06:35:33.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthenticationWebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\AuthenticationWebApi\\AuthenticationWebApi.csproj",
+              "RelativeDocumentMoniker": "AuthenticationWebApi\\AuthenticationWebApi.csproj",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\AuthenticationWebApi\\AuthenticationWebApi.csproj",
+              "RelativeToolTip": "AuthenticationWebApi\\AuthenticationWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-25T17:30:30.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T09:40:48.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T09:49:40.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T09:45:21.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T09:52:32.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T09:45:52.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SPSTrainingMvcApp.csproj",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj",
+              "RelativeToolTip": "SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-22T10:07:28.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EFEmployeeRepoAsync.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\EmployeeLibrary\\Repos\\EFEmployeeRepoAsync.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\Repos\\EFEmployeeRepoAsync.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\EmployeeLibrary\\Repos\\EFEmployeeRepoAsync.cs",
+              "RelativeToolTip": "EmployeeLibrary\\Repos\\EFEmployeeRepoAsync.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:16:52.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\EmployeeWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\EmployeeWebApi\\appsettings.json",
+              "RelativeToolTip": "EmployeeWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T16:21:36.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\EmployeeWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\EmployeeWebApi\\Program.cs",
+              "RelativeToolTip": "EmployeeWebApi\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:21:47.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SPSEmployeeDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\EmployeeLibrary\\Models\\SPSEmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\Models\\SPSEmployeeDBContext.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\EmployeeLibrary\\Models\\SPSEmployeeDBContext.cs",
+              "RelativeToolTip": "EmployeeLibrary\\Models\\SPSEmployeeDBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:15:47.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ForeignKeyHelper.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Models\\ForeignKeyHelper.cs",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Models\\ForeignKeyHelper.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Models\\ForeignKeyHelper.cs",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Models\\ForeignKeyHelper.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:36:44.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Training\\Details.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Training\\Details.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Training\\Details.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Training\\Details.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T11:21:30.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Training\\Index.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Training\\Index.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Training\\Index.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Training\\Index.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswDUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T11:20:16.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Training\\Create.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Training\\Create.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Training\\Create.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Training\\Create.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBwAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T11:23:19.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Training\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Training\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Training\\Edit.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Training\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T11:25:58.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Training\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Training\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Training\\Delete.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Training\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T11:28:00.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ITrainingRepoAsync.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainingLibrary\\Repos\\ITrainingRepoAsync.cs",
+              "RelativeDocumentMoniker": "TrainingLibrary\\Repos\\ITrainingRepoAsync.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainingLibrary\\Repos\\ITrainingRepoAsync.cs",
+              "RelativeToolTip": "TrainingLibrary\\Repos\\ITrainingRepoAsync.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:28:10.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ByTechnology.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Training\\ByTechnology.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Training\\ByTechnology.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Training\\ByTechnology.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Training\\ByTechnology.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T11:31:35.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T09:52:49.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ByTrainer.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Training\\ByTrainer.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Training\\ByTrainer.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Training\\ByTrainer.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Training\\ByTrainer.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T11:32:57.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Training.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Models\\Training.cs",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Models\\Training.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Models\\Training.cs",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Models\\Training.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:16:34.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Training.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainingLibrary\\Models\\Training.cs",
+              "RelativeDocumentMoniker": "TrainingLibrary\\Models\\Training.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainingLibrary\\Models\\Training.cs",
+              "RelativeToolTip": "TrainingLibrary\\Models\\Training.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:16:47.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Trainer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Trainer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Trainer\\Delete.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Trainer\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T11:02:15.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Trainer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Trainer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Trainer\\Edit.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Trainer\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:59:51.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Trainer\\Create.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Trainer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Trainer\\Create.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Trainer\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:57:15.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Trainer\\Details.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Trainer\\Details.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Trainer\\Details.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Trainer\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:54:51.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Trainer\\Index.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Trainer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Trainer\\Index.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Trainer\\Index.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswDQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:52:56.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Models\\Trainer.cs",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Models\\Trainer.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Models\\Trainer.cs",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Models\\Trainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:50:26.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Technology\\Details.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Technology\\Details.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Technology\\Details.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Technology\\Details.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:18:09.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ByType.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Trainer\\ByType.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Trainer\\ByType.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Trainer\\ByType.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Trainer\\ByType.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T11:04:59.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ITrainerRepoAsync.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainerLibrary\\Repos\\ITrainerRepoAsync.cs",
+              "RelativeDocumentMoniker": "TrainerLibrary\\Repos\\ITrainerRepoAsync.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainerLibrary\\Repos\\ITrainerRepoAsync.cs",
+              "RelativeToolTip": "TrainerLibrary\\Repos\\ITrainerRepoAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:02:32.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainerLibrary\\Models\\Trainer.cs",
+              "RelativeDocumentMoniker": "TrainerLibrary\\Models\\Trainer.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainerLibrary\\Models\\Trainer.cs",
+              "RelativeToolTip": "TrainerLibrary\\Models\\Trainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:50:41.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Technology\\Create.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Technology\\Create.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Technology\\Create.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Technology\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:19:14.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Technology\\Index.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Technology\\Index.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Technology\\Index.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Technology\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:13:32.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ByLevel.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Technology\\ByLevel.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Technology\\ByLevel.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Technology\\ByLevel.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Technology\\ByLevel.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:42:36.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TechnologyController.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TechnologyWebApi\\Controllers\\TechnologyController.cs",
+              "RelativeDocumentMoniker": "TechnologyWebApi\\Controllers\\TechnologyController.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TechnologyWebApi\\Controllers\\TechnologyController.cs",
+              "RelativeToolTip": "TechnologyWebApi\\Controllers\\TechnologyController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:50:46.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Technology\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Technology\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Technology\\Edit.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Technology\\Edit.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:30:27.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ITechnologyRepoAsync.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TechnologyLibrary\\Repos\\ITechnologyRepoAsync.cs",
+              "RelativeDocumentMoniker": "TechnologyLibrary\\Repos\\ITechnologyRepoAsync.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TechnologyLibrary\\Repos\\ITechnologyRepoAsync.cs",
+              "RelativeToolTip": "TechnologyLibrary\\Repos\\ITechnologyRepoAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:19:33.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Technology\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Views\\Technology\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Views\\Technology\\Delete.cshtml",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Views\\Technology\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:31:07.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Technology.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TechnologyLibrary\\Models\\Technology.cs",
+              "RelativeDocumentMoniker": "TechnologyLibrary\\Models\\Technology.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TechnologyLibrary\\Models\\Technology.cs",
+              "RelativeToolTip": "TechnologyLibrary\\Models\\Technology.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:10:43.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IEmployeeRepoAsync.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\EmployeeLibrary\\Repos\\IEmployeeRepoAsync.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\Repos\\IEmployeeRepoAsync.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\EmployeeLibrary\\Repos\\IEmployeeRepoAsync.cs",
+              "RelativeToolTip": "EmployeeLibrary\\Repos\\IEmployeeRepoAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:46:48.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\EmployeeLibrary\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\EmployeeLibrary\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeLibrary\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:39:02.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\SPSTrainingMvcApp\\Models\\Employee.cs",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:38:54.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainingWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TrainingWebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\putta\\Desktop\\SPS Training Management\\SPS Training Management\\TrainingWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TrainingWebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T08:42:51.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
